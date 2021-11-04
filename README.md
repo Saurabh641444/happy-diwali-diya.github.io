@@ -1,1 +1,3 @@
-# happy-diwali-diya.github.io
+# Diwali wishes with Diya 
+## Project is created by CSS animation
+
